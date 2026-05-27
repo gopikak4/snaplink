@@ -70,7 +70,7 @@ Visit `http://localhost:5173` in your browser.
 
 ---
 
-## AI Planning Document
+## Planning Document
 
 ### App Planning
 
