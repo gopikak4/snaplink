@@ -184,42 +184,42 @@ https://www.loom.com/share/fa197b115c5149cd8a04735819fbae13
 ### Login Page
 
 
-![Login](./screenshot/login.png)
+![Login](https://github.com/gopikak4/snaplink/blob/main/screenshot/login.png)
 
 
 
 ### Sign In Page
 
 
-![Signup](./screenshot/signin.png)
+![Signup](https://github.com/gopikak4/snaplink/blob/main/screenshot/signin.png)
 
 
 
 ### Dashboard
 
 
-![Dashboard](./screenshot/dashboard.png)
+![Dashboard](https://github.com/gopikak4/snaplink/blob/main/screenshot/dashboard.png)
 
 
 
 ### Analytics Page
 
 
-![Analytics](./screenshot/analytics.png)
+![Analytics](https://github.com/gopikak4/snaplink/blob/main/screenshot/analytics.png)
 
 
 
 ### QR Code
 
 
-![QR Code](./screenshot/Qr.png)
+![QR Code](https://github.com/gopikak4/snaplink/blob/main/screenshot/Qr.png)
 
 
 
 ### Frontend
 
 
-![Frontend](./screenshot/frontend.png)
+![Frontend](https://github.com/gopikak4/snaplink/blob/main/screenshot/frontend.png)
 
 
 
@@ -233,20 +233,20 @@ https://www.loom.com/share/fa197b115c5149cd8a04735819fbae13
 ### URLs Database
 
 
-![URLs DB](./screenshot/urldb.png)
+![URLs DB](https://github.com/gopikak4/snaplink/blob/main/screenshot/urldb.png)
 
 
 
 ### Users Database
 
 
-![Users DB](./screenshot/userdb.png)
+![Users DB](https://github.com/gopikak4/snaplink/blob/main/screenshot/userdb.png)
 
 
 
 ### Clicks Database
 
 
-![Clicks DB](./screenshot/clicksdb.png)
+![Clicks DB](https://github.com/gopikak4/snaplink/blob/main/screenshot/clicksdb.png)
 
 This project is a part of a hackathon run by https://katomaran.com
