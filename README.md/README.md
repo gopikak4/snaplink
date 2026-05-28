@@ -179,5 +179,74 @@ REST API grouped by resource:
 https://www.loom.com/share/fa197b115c5149cd8a04735819fbae13
 
 ---
+## Sample Output
+
+### Login Page
+
+
+![Login](./screenshot/login%20.png)
+
+
+
+### Sign In Page
+
+
+![Signup](./screenshot/sign%20in%20.png)
+
+
+
+### Dashboard
+
+
+![Dashboard](./screenshot/dashboard.png)
+
+
+
+### Analytics Page
+
+
+![Analytics](./screenshot/analytics.png)
+
+
+
+### QR Code
+
+
+![QR Code](./screenshot/Qr.png)
+
+
+
+### Frontend
+
+
+![Frontend](./screenshot/frontend.png)
+
+
+
+### Backend Logs
+
+
+![Backend](./screenshot/backend%20.png)
+
+
+
+### URLs Database
+
+
+![URLs DB](./screenshot/urldb.png)
+
+
+
+### Users Database
+
+
+![Users DB](./screenshot/userdb.png)
+
+
+
+### Clicks Database
+
+
+![Clicks DB](./screenshot/clicks%20db.png)
 
 This project is a part of a hackathon run by https://katomaran.com
