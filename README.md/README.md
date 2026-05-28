@@ -184,14 +184,14 @@ https://www.loom.com/share/fa197b115c5149cd8a04735819fbae13
 ### Login Page
 
 
-![Login](./screenshot/login%20.png)
+![Login](./screenshot/login.png)
 
 
 
 ### Sign In Page
 
 
-![Signup](./screenshot/sign%20in%20.png)
+![Signup](./screenshot/signin.png)
 
 
 
@@ -247,6 +247,6 @@ https://www.loom.com/share/fa197b115c5149cd8a04735819fbae13
 ### Clicks Database
 
 
-![Clicks DB](./screenshot/clicks%20db.png)
+![Clicks DB](./screenshot/clicksdb.png)
 
 This project is a part of a hackathon run by https://katomaran.com
